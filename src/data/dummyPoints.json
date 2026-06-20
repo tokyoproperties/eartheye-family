@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Trailhead Alpha",
+        "type": "Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.9, 35.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "name": "Species Node Bravo",
+        "type": "Species"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.92, 35.42]
+      }
+    }
+  ]
+}
+{
+  "type": "Feature",
+  "id": 2,
+  "properties": {
+    "name": "Pacific Chorus Frog",
+    "type": "Species",
+    "habitat": "Riparian, wetlands, seasonal pools",
+    "range": "Western North America",
+    "photo": "/placeholder-species.jpg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-118.92, 35.42]
+  }
+}
